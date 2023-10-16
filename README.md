@@ -1,1 +1,4 @@
 # RSA-Public-Key-Algorithm-Implementation
+
+Project 5 - RSA Public Key Algorithm
+Implement RSA Public Key Algorithm. A user will be asked to enter two prime numbers p and q, in the range 5000 to 10000 (https://primes.utm.edu/lists/small/10000.txt). Your program should verify these two numbers. Then your program computes and displays the modulo n and the Totient function value O. Then it should generate a private key d and a public key e based on n and the Totient value O. The program should verify that d and e are multiplicative inverse of each other based on O. Submit the following: 1. Source code 2. A screen shot showing the validation and p, q. 3. A screen shot showing n, O, a private key, and public key. 4. A screen shot showing the verification that d and e are multiplicative inverse for O
